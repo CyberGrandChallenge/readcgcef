@@ -1,0 +1,9 @@
+readcgcef (1276-cqe-kickoff-release) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Thu, 29 May 2014 17:37:45 +0000
