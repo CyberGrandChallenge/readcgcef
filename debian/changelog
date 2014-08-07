@@ -1,0 +1,9 @@
+readcgcef (1648-cb-author-release) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Mon, 30 Jun 2014 17:17:09 +0000
