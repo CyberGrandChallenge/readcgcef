@@ -1,0 +1,9 @@
+readcgcef (2241-scored-event-1) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Thu, 25 Sep 2014 13:37:01 +0000
