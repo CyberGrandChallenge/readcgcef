@@ -1,0 +1,9 @@
+readcgcef (3740-cqe) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Wed, 11 Feb 2015 09:27:23 +0000
