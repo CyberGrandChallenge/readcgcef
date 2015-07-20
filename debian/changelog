@@ -1,0 +1,9 @@
+readcgcef (7170-cfe-alpha) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Thu, 16 Jul 2015 22:32:33 +0000
