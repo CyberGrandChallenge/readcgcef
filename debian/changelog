@@ -1,0 +1,9 @@
+readcgcef (7667-cfe-rc2) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Tue, 29 Sep 2015 15:06:52 +0000
