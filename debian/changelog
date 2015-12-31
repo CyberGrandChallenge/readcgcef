@@ -1,0 +1,9 @@
+readcgcef (8387-cfe-rc3) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Fri, 18 Dec 2015 21:09:02 +0000
