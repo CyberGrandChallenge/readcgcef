@@ -1,0 +1,9 @@
+readcgcef (9082-cfe-rc4) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Mon, 29 Feb 2016 16:16:46 +0000
