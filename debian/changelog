@@ -1,0 +1,9 @@
+readcgcef (9735-cfe-rc5) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Tue, 17 May 2016 14:27:47 +0000
