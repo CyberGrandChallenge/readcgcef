@@ -1,0 +1,9 @@
+readcgcef (10206-cfe-rc6) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Tue, 12 Jul 2016 14:40:35 +0000
