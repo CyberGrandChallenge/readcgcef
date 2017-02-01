@@ -1,0 +1,9 @@
+readcgcef (10551-cfe-rc8) UNRELEASED; urgency=low
+
+  [ Vagrant User ]
+  * Initial release.
+
+  [ Brian Caswell ]
+  * build
+
+ -- Brian Caswell <bmc@lungetech.com>  Tue, 10 Jan 2017 22:11:30 +0000
